@@ -51,7 +51,7 @@ python manage.py runserver
 
 #
 
-### App Preview :
+
 
 
 
